@@ -1,0 +1,52 @@
+{
+    "bookshelf": {
+        "books": [
+            {
+                "starred": false,
+                "read status": false,
+                "review": "P",
+                "author": "A",
+                "series": "A",
+                "genre": "A",
+                "star review": 0,
+                "title": "A"
+            },
+            {
+                "starred": true,
+                "read status": false,
+                "review": "No review yet",
+                "author": "B",
+                "series": "B",
+                "genre": "B",
+                "star review": 0,
+                "title": "B"
+            }
+        ],
+        "name": "Bookshelf"
+    },
+    "reading list": {
+        "books": [
+            {
+                "starred": false,
+                "read status": false,
+                "review": "No review yet",
+                "author": "C",
+                "series": "C",
+                "genre": "C",
+                "star review": 1,
+                "title": "C"
+            },
+            {
+                "starred": false,
+                "read status": true,
+                "review": "No review yet",
+                "author": "D",
+                "series": "D",
+                "genre": "D",
+                "star review": 0,
+                "title": "D"
+            }
+        ],
+        "name": "Reading List"
+    }
+}

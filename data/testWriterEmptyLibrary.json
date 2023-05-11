@@ -1,0 +1,10 @@
+{
+    "bookshelf": {
+        "books": [],
+        "name": "Bookshelf"
+    },
+    "reading list": {
+        "books": [],
+        "name": "Reading List"
+    }
+}
